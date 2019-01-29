@@ -60,7 +60,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Test\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Scenes\Tests\NewBehaviourScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/mctraher21/Desktop/Game/Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
