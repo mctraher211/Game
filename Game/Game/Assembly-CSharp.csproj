@@ -56,10 +56,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\Tests\Test 1\NewBehaviourScript.cs" />
-    <Compile Include="Assets\Scenes\Tests\Test 2\cameraScript.cs" />
-    <Compile Include="Assets\Scenes\Tests\Test 2\heroScript.cs" />
-    <Compile Include="Assets\Scenes\Tests\Test 2\parallaxLayer.cs" />
-    <Compile Include="Assets\Scenes\Tests\Test 2\parallaxOption.cs" />
+    <Compile Include="Assets\Scenes\Tests\Test 2\Scripts\cameraPlayer.cs" />
+    <Compile Include="Assets\Scenes\Tests\Test 2\Scripts\cameraTarget.cs" />
+    <Compile Include="Assets\Scenes\Tests\Test 2\Scripts\heroScript.cs" />
+    <Compile Include="Assets\Scenes\Tests\Test 2\Scripts\parallaxLayer.cs" />
+    <Compile Include="Assets\Scenes\Tests\Test 2\Scripts\parallaxOption.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Unlukoboy/Desktop/project/Game/Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
